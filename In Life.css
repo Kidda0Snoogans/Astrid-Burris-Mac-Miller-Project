@@ -2,10 +2,18 @@ In-Life.html>
 
 /* Pic of Mac Miller */
 
-img {
+.Pic-1 {
+    size-adjust: 40px;
+    width: 40px;
+    position: "clear: right";
     display: block;
     margin-left: auto;
   }
 
+  /* For all paragraphs */
 
-  /* For the p about childhood */
+  p{
+    font-size:large;
+    font:Chalkduster, fantasy;
+  }
+
