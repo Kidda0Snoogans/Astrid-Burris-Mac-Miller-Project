@@ -1,3 +1,18 @@
 In-Death.html>
 
-/*  */
+/* For the first pic */
+
+.Pic-1 {
+    size-adjust: 40px;
+    width: 40px;
+    position: "clear: right";
+    display: block;
+    margin-left: auto;
+  }
+
+  /* For all paragraphs */
+
+  p{
+    font-size:large;
+    font:Chalkduster, fantasy;
+  }
