@@ -5,7 +5,8 @@ img {
         display: block;
         margin-left: auto;
         margin-right: auto;
-        width: fit-content
+        width: fit-content;
+        border: 25px;
     }
 
     .center {
@@ -45,6 +46,11 @@ h3{
 
 /* The code below a solid black border to section and puts space between them (the margin). */
 .section {
-    border: 5px rgb(156, 210, 255) solid;
-    margin:5px;
+    border: 25px rgb(156, 210, 255) solid;
+    margin:25px;
+}
+
+.Death,
+.Life {
+    color-scheme: ;
 }
